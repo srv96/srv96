@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working as BigData Analyst in J.P. Morgan Bank <br/>
+🌱 I’m currently learning Hadoop ecosystem.<br/>
+📫 How to reach me: https://www.linkedin.com/in/srv96/
+
 <!--
 **srv96/srv96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
