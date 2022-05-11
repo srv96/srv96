@@ -11,6 +11,9 @@
 <a href="https://www.linkedin.com/in/srv96//">
   <img align="left" alt="Sourav's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://srv96.github.io/">
+  <img align="left" alt="Sourav's LinkedIN" width="22px" src="https://github.com/srv96/srv96.github.io/blob/main/img/titile_image.png" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=srv96)
 
